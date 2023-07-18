@@ -1,0 +1,30 @@
+html{
+   display: flex; 
+   height: 100vh;
+   justify-content: center;
+   align-items: center;
+   background-color:rgba(0, 0, 0, 0.612);
+}
+button{
+    width: 60px;
+    margin: 1px  5px;
+    border-radius: 50%;
+    height: 60px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.705);
+   color: white;
+    box-shadow:  4px -4px 5px rgba(245, 229, 220, 0.53);
+    cursor: pointer;
+}
+input{
+    height: 35px;
+ width: 277px;
+ margin-bottom:5px;
+ text-align: right;
+ font-size: large;
+}
+.con{
+    background-color: bisque;
+    padding: 5px;
+    border: solid 2px black;
+}
